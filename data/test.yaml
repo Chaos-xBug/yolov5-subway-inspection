@@ -1,0 +1,13 @@
+# val_test
+
+path: ../datasets/crrcdata
+train: ../voc/train/train/images
+val: ../voc/train/val/images
+test: ../datasets/crrcdata/base90/images
+
+nc: 38
+
+names: ['Bolt', 'KeyholeCap', 'SplitPin', 'RubberPlug', 'Valve', 'Oil', 'TemperaturePaste', 'Nameplate', 'Bandage','Hoop',
+        'UnionNut', 'PipeClamp', 'CrossBolt', 'BellowsHoop', 'BrakeWireJoint', 'CableJoint', 'GroundTerminal', 'Fastening', 'WheelTread', 'BrakeShoe',
+        'Grille', 'AirOutlet', 'RubberPile', 'Sewing', 'Box', 'RectConnector', 'SteelWire', 'PressureTestPort', 'CircleConnect',
+        'Wheellabel', 'MountingBolt', 'Scupper', 'PullTab', 'PlasticPlug', 'DrainCock', 'Warning', 'BoxCoverHinge', 'noBolt']

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c19533d9-7bb0-4c1f-a3de-4e8133bc4cb4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="26galC4a2VoMJ4TFSzdLaQgid93" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deep-vue" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/runs/train/exp60/weights" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PycharmProjects\yolov5-wjd\" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.rename">
+    <configuration name="TemplateGenerate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TemplateGenerate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UniDetection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UniDetection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cut_bbox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cut_bbox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detectSplitpin (1)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detectSplitpin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pointsort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pointsort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rename" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rename.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yolofunction" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Lenovo\PycharmProjects\yolov5-wjd\yolofunction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yolofunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Lenovo\PycharmProjects\yolov5-wjd\yolofunction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.rename" />
+        <item itemvalue="Python.UniDetection" />
+        <item itemvalue="Python.cut_bbox" />
+        <item itemvalue="Python.TemplateGenerate" />
+        <item itemvalue="Python.pointsort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c19533d9-7bb0-4c1f-a3de-4e8133bc4cb4" name="Default Changelist" comment="" />
+      <created>1638169331558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638169331558</updated>
+      <workItem from="1638169333100" duration="2590000" />
+      <workItem from="1638172104914" duration="1235000" />
+      <workItem from="1638173569771" duration="2446000" />
+      <workItem from="1638321640429" duration="1600000" />
+      <workItem from="1638338662109" duration="599000" />
+      <workItem from="1638352652727" duration="360000" />
+      <workItem from="1638353085071" duration="13000" />
+      <workItem from="1638353140898" duration="15000" />
+      <workItem from="1638353194518" duration="8000" />
+      <workItem from="1638433815728" duration="2000" />
+      <workItem from="1638433834259" duration="121000" />
+      <workItem from="1638752520173" duration="1677000" />
+      <workItem from="1638868335067" duration="593000" />
+      <workItem from="1640678218935" duration="597000" />
+      <workItem from="1647847832754" duration="6451000" />
+      <workItem from="1647914209723" duration="8933000" />
+      <workItem from="1648021759086" duration="1326000" />
+      <workItem from="1648085767458" duration="4679000" />
+      <workItem from="1648428950253" duration="1303000" />
+      <workItem from="1648451234706" duration="4001000" />
+      <workItem from="1648524506764" duration="37705000" />
+      <workItem from="1648689502066" duration="32844000" />
+      <workItem from="1648862581732" duration="6644000" />
+      <workItem from="1649207607666" duration="21404000" />
+      <workItem from="1649298515289" duration="28462000" />
+      <workItem from="1649660562989" duration="6727000" />
+      <workItem from="1649835995196" duration="17218000" />
+      <workItem from="1649984865531" duration="15584000" />
+      <workItem from="1650244042505" duration="24225000" />
+      <workItem from="1650424741597" duration="60944000" />
+      <workItem from="1650935626601" duration="3524000" />
+      <workItem from="1651052968832" duration="1903000" />
+      <workItem from="1651130949703" duration="7846000" />
+      <workItem from="1651195039783" duration="10231000" />
+      <workItem from="1651713430488" duration="31152000" />
+      <workItem from="1652058391867" duration="3741000" />
+      <workItem from="1652166815726" duration="12544000" />
+      <workItem from="1652664195244" duration="1888000" />
+      <workItem from="1652749633924" duration="5807000" />
+      <workItem from="1653293462755" duration="2894000" />
+      <workItem from="1653380383577" duration="31362000" />
+      <workItem from="1653550136163" duration="50508000" />
+      <workItem from="1653873044976" duration="8909000" />
+      <workItem from="1653977485039" duration="36722000" />
+      <workItem from="1654480895119" duration="52777000" />
+      <workItem from="1655083388293" duration="41262000" />
+      <workItem from="1655319010588" duration="2954000" />
+      <workItem from="1655688626993" duration="29266000" />
+      <workItem from="1655862043884" duration="6174000" />
+      <workItem from="1656031732673" duration="2800000" />
+      <workItem from="1656229967706" duration="2668000" />
+      <workItem from="1656472705427" duration="678000" />
+      <workItem from="1657511138512" duration="2419000" />
+      <workItem from="1657588585200" duration="18496000" />
+      <workItem from="1657674229698" duration="3138000" />
+      <workItem from="1657760791512" duration="3900000" />
+      <workItem from="1657854867445" duration="1637000" />
+      <workItem from="1658108863303" duration="18695000" />
+      <workItem from="1658194730203" duration="12617000" />
+      <workItem from="1658282620517" duration="6122000" />
+      <workItem from="1658396744076" duration="9646000" />
+      <workItem from="1658972382114" duration="4663000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655089980296">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1655089980296" />
+    <state x="522" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1653644808637">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1653644808637" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1659080634770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1659080634770" />
+    <state width="1262" height="232" key="GridCell.Tab.0.bottom" timestamp="1658975028121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1262" height="232" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1658975028121" />
+    <state width="1493" height="246" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1651226263210" />
+    <state width="1262" height="232" key="GridCell.Tab.0.center" timestamp="1658975028121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1262" height="232" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1658975028121" />
+    <state width="1493" height="246" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1651226263210" />
+    <state width="1262" height="232" key="GridCell.Tab.0.left" timestamp="1658975028119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1262" height="232" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1658975028119" />
+    <state width="1493" height="246" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1651226263210" />
+    <state width="1262" height="232" key="GridCell.Tab.0.right" timestamp="1658975028121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1262" height="232" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1658975028121" />
+    <state width="1493" height="246" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1651226263210" />
+    <state width="958" height="200" key="GridCell.Tab.1.bottom" timestamp="1658765978305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="958" height="200" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1658765978305" />
+    <state width="958" height="200" key="GridCell.Tab.1.center" timestamp="1658765978305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="958" height="200" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1658765978305" />
+    <state width="958" height="200" key="GridCell.Tab.1.left" timestamp="1658765978305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="958" height="200" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1658765978305" />
+    <state width="958" height="200" key="GridCell.Tab.1.right" timestamp="1658765978305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="958" height="200" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1658765978305" />
+    <state x="401" y="58" key="SettingsEditor" timestamp="1659080716298">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="401" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1659080716298" />
+    <state x="401" y="61" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1651135759387" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1658972382611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1658972382611" />
+    <state x="449" y="247" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1651713431482" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1658130710180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1658130710180" />
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1651197739123" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main02.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/yolov5_wjd$train.coverage" NAME="train Coverage Results" MODIFIED="1650877255280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$rename.coverage" NAME="rename Coverage Results" MODIFIED="1658974926340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$main01.coverage" NAME="main01 Coverage Results" MODIFIED="1649230599369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$detectSplitpin.coverage" NAME="detectSplitpin Coverage Results" MODIFIED="1655089946797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$boltlinedetect.coverage" NAME="boltlinedetect Coverage Results" MODIFIED="1653619451499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$extractest.coverage" NAME="extractest Coverage Results" MODIFIED="1653986602996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$extractfeature.coverage" NAME="extractfeature Coverage Results" MODIFIED="1654135107462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$Splintest.coverage" NAME="Splintest Coverage Results" MODIFIED="1653642511927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$DefautTree.coverage" NAME="DefautTree Coverage Results" MODIFIED="1648535765027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$predict.coverage" NAME="predict Coverage Results" MODIFIED="1651134305249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markline" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$test03.coverage" NAME="test03 Coverage Results" MODIFIED="1657591816921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$main02_1.coverage" NAME="main02_1 Coverage Results" MODIFIED="1650338042188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$predict__2_.coverage" NAME="predict (2) Coverage Results" MODIFIED="1651139084563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classfier02" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$ms_ssim1.coverage" NAME="ms_ssim1 Coverage Results" MODIFIED="1655867040442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$TemplateGenerate.coverage" NAME="TemplateGenerate Coverage Results" MODIFIED="1658286266955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$test.coverage" NAME="test Coverage Results" MODIFIED="1650779347732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$UniDetection.coverage" NAME="UniDetection Coverage Results" MODIFIED="1658722065575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5$voc2yolo.coverage" NAME="voc2yolo Coverage Results" MODIFIED="1638173049394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yml2txt" />
+    <SUITE FILE_PATH="coverage/yolov5$labelimg2voc.coverage" NAME="labelimg2voc Coverage Results" MODIFIED="1638172868711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yml2txt" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$ssim.coverage" NAME="ssim Coverage Results" MODIFIED="1655867035348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$predict__1_.coverage" NAME="predict (1) Coverage Results" MODIFIED="1651138811996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classifier" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$detect.coverage" NAME="detect Coverage Results" MODIFIED="1638752825186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$crrcdetect.coverage" NAME="crrcdetect Coverage Results" MODIFIED="1650875144104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$voc2yolo.coverage" NAME="voc2yolo Coverage Results" MODIFIED="1649926201499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yml2txt" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$test02__1_.coverage" NAME="test02 (1) Coverage Results" MODIFIED="1653557295879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markline" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$plottest.coverage" NAME="plottest Coverage Results" MODIFIED="1652782027662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$main02.coverage" NAME="main02 Coverage Results" MODIFIED="1650443581050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$main.coverage" NAME="main Coverage Results" MODIFIED="1655692860818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markline" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$SplitpinCheck.coverage" NAME="SplitpinCheck Coverage Results" MODIFIED="1655706601016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$ioutest.coverage" NAME="ioutest Coverage Results" MODIFIED="1648630403118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$yolofunction__1_.coverage" NAME="yolofunction (1) Coverage Results" MODIFIED="1655122763728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$cut_bbox.coverage" NAME="cut_bbox Coverage Results" MODIFIED="1658722058382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5$train.coverage" NAME="train Coverage Results" MODIFIED="1638173230821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$main03.coverage" NAME="main03 Coverage Results" MODIFIED="1654658679693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$yoloplot.coverage" NAME="yoloplot Coverage Results" MODIFIED="1653745734672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desmonstration" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$yolo2voc.coverage" NAME="yolo2voc Coverage Results" MODIFIED="1651053521688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yml2txt" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$extractfeature2.coverage" NAME="extractfeature2 Coverage Results" MODIFIED="1654053282553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1657610119058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$pointsort.coverage" NAME="pointsort Coverage Results" MODIFIED="1658283015442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5$yolo2voc.coverage" NAME="yolo2voc Coverage Results" MODIFIED="1638170282404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yml2txt" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1653548407578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$siamese.coverage" NAME="siamese Coverage Results" MODIFIED="1650763563490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classifier" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$jasonedit.coverage" NAME="jasonedit Coverage Results" MODIFIED="1649838163092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$Splintest_Orin.coverage" NAME="Splintest_Orin Coverage Results" MODIFIED="1653897978654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$KeyholeCheck.coverage" NAME="KeyholeCheck Coverage Results" MODIFIED="1655323109374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$detectSplitpin__1_.coverage" NAME="detectSplitpin (1) Coverage Results" MODIFIED="1655090267290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5$detect.coverage" NAME="detect Coverage Results" MODIFIED="1638171434589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$labelimg2voc.coverage" NAME="labelimg2voc Coverage Results" MODIFIED="1652767333453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yml2txt" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$predict__3_.coverage" NAME="predict (3) Coverage Results" MODIFIED="1651199579150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classfier" />
+    <SUITE FILE_PATH="coverage/yolov5_wjd$boltlineshow.coverage" NAME="boltlineshow Coverage Results" MODIFIED="1653754925096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desmonstration" />
+  </component>
+</project>

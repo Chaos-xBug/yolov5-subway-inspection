@@ -1,0 +1,19 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+#train: ../coco128/images/train2017/  # 128 images
+#val: ../coco128/images/train2017/  # 128 images\
+
+#train: /home/crrc/workspaces/deephitomi/data/crrcvoc/JPEGImages/  # 128 images
+#val: /home/crrc/workspaces/deephitomi/data/crrcvoc/Annotations/  # 128 images
+
+
+train: ../voc/train/train.txt
+val: ../voc/train/val.txt
+test: ../voc/train/test.txt
+# number of classes
+nc: 38
+
+# class names
+names: ['Bolt', 'KeyholeCap', 'SplitPin', 'RubberPlug', 'Valve', 'Oil', 'TemperaturePaste', 'Nameplate', 'Bandage','Hoop',
+        'UnionNut', 'PipeClamp', 'CrossBolt', 'BellowsHoop', 'BrakeWireJoint', 'CableJoint', 'GroundTerminal', 'Fastening', 'WheelTread', 'BrakeShoe',
+        'Grille', 'AirOutlet', 'RubberPile', 'Sewing', 'Box', 'RectConnector', 'SteelWire', 'PressureTestPort', 'CircleConnect',
+        'Wheellabel', 'MountingBolt', 'Scupper', 'PullTab', 'PlasticPlug', 'DrainCock', 'Warning', 'BoxCoverHinge', 'noBolt']
